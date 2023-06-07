@@ -1,4 +1,4 @@
 # odin-recipes
 Basic recipe website
 
-This is a simple recipe website built with intro-level html code. 
+I built this toy website as an assignment for The Odin Project. 
